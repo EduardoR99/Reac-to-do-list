@@ -1,4 +1,4 @@
-# React-Calculator
+# React to do list
 
 this project was made entirely with React JS framework, Typescript and Styled-Components, with the objective to made a to do list.
 
